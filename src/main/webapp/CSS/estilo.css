@@ -1,0 +1,68 @@
+/*Thales Douglas de Souza 4º TADSB - NOTURNO */
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.todoProduto {
+    border: 1px solid blue;
+    margin-top: 10%;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 10%;
+    max-width: 100%;
+    max-height: 600px;
+}
+
+.nomeProduto {
+    max-height: 30px;
+    text-align: center;
+}
+
+.nome {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.precoProduto {
+    height: 20%;
+    text-align: center;
+}
+
+.preco {
+    margin-top: 10%;
+    font-size: 20px;
+}
+
+.idProduto {
+    height: 10px;
+    text-align: center;
+}
+
+.id {
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.descricaoTituloProduto {
+    text-align: center; 
+}
+
+.descricaoTitulo {
+    margin-top: 15%;
+    height: 20%;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.descricaoProduto {
+    height: 100px;
+    text-align: center;
+}
+
+.descricao {
+    margin-top: 5%;
+    font-size: 20px;
+}
